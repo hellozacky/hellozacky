@@ -1,21 +1,21 @@
-<h1 align="center">Hi there! 👋 I'm MOH. MAULIDA ZACKY</h1>
+<h1 align="center">Hi there! 👋 I'm ZACKY</h1>
 <p align="center">
   💻 Fullstack Developer • 🎮 Game Development Enthusiast • 🌐 Tech Explorer  
 </p>
 
 ---
 
-## 🧑‍🎓 Tentang Saya
+## 🧑‍🎓 About Me
 
-Saya adalah seorang pelajar tingkat akhir di **SMK (Sekolah Menengah Kejuruan)** dan saat ini aktif sebagai seorang **Developer di [Toprion.id](https://toprion.id)**.
+I’m a final-year student at a **Vocational High School (SMK)** in Indonesia and currently a **Developer at [Toprion.com](https://toprion.com)**.
 
-Saya mulai belajar pemrograman sejak kelas 2 SMP dan telah mengembangkan berbagai proyek pribadi dan profesional, baik dari sisi **frontend** maupun **backend**. Semua proyek saya saya dokumentasikan dan bagikan di GitHub ini.
+I started learning programming in 8th grade and have been building various personal and professional projects ever since—both in **frontend** and **backend**. Most of my projects are documented and shared here on GitHub.
 
 ---
 
-## 🚀 Keahlian
+## 🚀 Skills
 
-### 🌐 Bahasa Pemrograman
+### 🌐 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -23,34 +23,28 @@ Saya mulai belajar pemrograman sejak kelas 2 SMP dan telah mengembangkan berbaga
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### ⚙️ Bidang Pengembangan
-- Fullstack Web Development
-- Game Development (berbasis web & scripting)
-- API & Backend Development
-- UI/UX Frontend Design
+### ⚙️ Fields of Expertise
+- Fullstack Development  
+- Game Development
+- API & Backend Systems  
+- UI/UX Frontend Design  
 
 ---
 
-## 📁 Proyek-Proyek
+## 📁 Projects
 
-Di repositori GitHub ini saya menyimpan berbagai proyek mulai dari:
-
-- Website dinamis & statis
-- Sistem backend dan API sederhana
-- Tool berbasis JavaScript
-- Template frontend kreatif
-- Proyek game scripting
+In this GitHub profile, you'll find a variety of projects, you can explore my repository.  
 
 ---
 
-## 📫 Kontak & Info Lain
+## 📫 Contact & More
 
-- 🌍 Website: [Toprion.id](https://toprion.id)
-- 📧 Email: zacky.toprion@gmail.com
+- 🌍 Website: [toprion.com](https://www.toprion.com)  
+- 📧 Email: toprionid@gmail.com
 
 ---
 
 <p align="center">
-  Terima kasih telah mengunjungi profil saya! 🙏  
-  Jangan ragu untuk menjelajahi dan memberi bintang pada proyek saya ⭐
+  Thanks for visiting my GitHub profile! 🙏  
+  Feel free to explore and ⭐ any project you find interesting!
 </p>
