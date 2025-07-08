@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm ZACKY</h1>
 <p align="center">
-  💻 Fullstack Developer • 🎮 Game Development Enthusiast • 🌐 Tech Explorer  
+  💻 Fullstack Developer • 🎮 Game Development • 🌐 Web Development
 </p>
 
 ---
@@ -39,8 +39,12 @@ In this GitHub profile, you'll find a variety of projects, you can explore my re
 
 ## 📫 Contact & More
 
-- 🌍 Website: [toprion.com](https://www.toprion.com)  
-- 📧 Email: toprionid@gmail.com
+- 📱 **WhatsApp**: [081554269688](https://wa.me/6281554269688)
+- 📧 **Email**: [toprionid@gmail.com](mailto:toprionid@gmail.com)
+- 🌐 **Website**: [toprion](https://toprion.com)
+- 📸 **Instagram**: [@p.ky___](https://instagram.com/p.ky___)
+- 👤 **Facebook**: [M Zacky](https://www.facebook.com/share/172NmZtMos/)
+- 🎵 **TikTok**: [@toprion](https://www.tiktok.com/@toprion)
 
 ---
 
