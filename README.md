@@ -43,7 +43,7 @@ In this GitHub profile, you'll find a variety of projects, you can explore my re
 - 🌐 **Website**: [toprion](https://toprion.com)
 - 📸 **Instagram**: [@p.ky___](https://instagram.com/p.ky___)
 - 👤 **Facebook**: [M Zacky](https://www.facebook.com/share/172NmZtMos/)
-- 🎵 **TikTok**: [@toprion](https://www.tiktok.com/@p.kyy___)
+- 🎵 **TikTok**: [@p.kyy___](https://www.tiktok.com/@p.kyy___)
 
 ---
 
