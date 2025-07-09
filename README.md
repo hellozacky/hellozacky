@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm ZACKY</h1>
 <p align="center">
-  💻 Fullstack Developer • 🎮 Game Development • 🌐 Web Development
+  💻 Fullstack Developer <!--• 🎮 Game Development •--> 🌐 Web Development
 </p>
 
 ---
@@ -25,7 +25,7 @@ I started learning programming in 8th grade and have been building various perso
 
 ### ⚙️ Fields of Expertise
 - Fullstack Development  
-- Game Development
+<!-- Game Development -->
 - API & Backend Systems  
 - UI/UX Frontend Design  
 
