@@ -24,8 +24,7 @@ I started learning programming in 8th grade and have been building various perso
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### ⚙️ Fields of Expertise
-- Fullstack Development  
-<!-- Game Development -->
+- Fullstack Development  <!-- Game Development -->
 - API & Backend Systems  
 - UI/UX Frontend Design  
 
@@ -40,11 +39,11 @@ In this GitHub profile, you'll find a variety of projects, you can explore my re
 ## 📫 Contact & More
 
 - 📱 **WhatsApp**: [081554269688](https://wa.me/6281554269688)
-- 📧 **Email**: [toprionid@gmail.com](mailto:toprionid@gmail.com)
+- 📧 **Email**: [zackyy425@gmail.com](mailto:zackyy425@gmail.com)
 - 🌐 **Website**: [toprion](https://toprion.com)
 - 📸 **Instagram**: [@p.ky___](https://instagram.com/p.ky___)
 - 👤 **Facebook**: [M Zacky](https://www.facebook.com/share/172NmZtMos/)
-- 🎵 **TikTok**: [@toprion](https://www.tiktok.com/@toprion)
+- 🎵 **TikTok**: [@toprion](https://www.tiktok.com/@p.kyy___)
 
 ---
 
